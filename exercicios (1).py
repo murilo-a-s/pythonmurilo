@@ -20,13 +20,6 @@
 # 4. Exiba "O número está na lista" ou "O número não está na lista" dependendo do resultado.
 # Dica: Use o operador "in" para verificar a presença de um elemento na lista
 
-lista1 = [1,2,3,4,5,6,7,8,9,10]
 
-num = int(input("digite um número: "))
-
-if num in lista1:
-    print("seu número está na lista")
-else:
-    print("seu número não está na lita")
     
 

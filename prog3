@@ -1,9 +1,0 @@
-lista1 = [1,2,3,4,5,6,7,8,9,10]
-
-num = int(input("digite um número: "))
-
-if num in lista1:
-    print("seu número está na lista")
-else:
-    print("seu número não está na lita")
-    

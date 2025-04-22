@@ -1,8 +1,0 @@
-num1 = int(input("digite um número: "))
-
-num2 = int(input("digite outro número: "))
-
-if num1 > 0 and num2 > 0:
-    print("ambos são positivos")
-else: 
-    print("ambos são negativos")
