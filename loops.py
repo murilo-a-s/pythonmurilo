@@ -2,9 +2,9 @@
 
 frutas = ['maçã', 'banana', 'laranja']
 
-# print('iterar em lista:')
-# for fruta in frutas:
-#   print(fruta)
+print('iterar em lista:')
+for fruta in frutas:
+  print(fruta)
 
 # #range
 # for indice in range(5):
