@@ -2,9 +2,9 @@
 
 frutas = ['maçã', 'banana', 'laranja']
 
-print('iterar em lista:')
-for fruta in frutas:
-  print(fruta)
+#print('iterar em lista:')
+#for fruta in frutas:
+ # print(fruta)
 
 # #range
 # for indice in range(5):
@@ -21,6 +21,6 @@ for fruta in frutas:
 #   contador += 1
 
 #enumerate
-# for indice, fruta in enumerate(frutas):
-#     print(f"indice {indice}: {fruta}")
+for indice, fruta in enumerate(frutas):
+  print(f"indice {indice}: {fruta}")
 
